@@ -22,12 +22,12 @@ All prefixes in the documentation are given as `a!`, which is the default prefix
 
 ### User Utilities
 
-| Command                     | Information                                                                                                                                                                                         |
-| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `a!snipe [channel] [index]` | Shows the last deleted message. You can specify an optional channel to get the deleted messages from that channel. Index should be a number from 1 - 10, 1 being the most recent message deleted.   |
-| `a!snipetoggle`             | Toggles allowing others to snipe your messages.                                                                                                                                                     |
-| `a!afk [reason]`            | Marks the user ask AFK, until a new message is sent. While AFK, all members who mention the user are replied with a reason why the user is AFK.                                                     |
-| `a!avatar [user]`           | Shows the avatar and banner of a specified user. Defaults to the author.                                                                                                                            |
+| Command           | Information                                         |
+| ----------------- | --------------------------------------------------- |
+| `a!snipe`         | Shows The Last Deleted Message.                     |
+| `a!snipetoggle`   | Configure If Anyone Can Snipe Your Deleted Message. |
+| `a!afk`           | Marks The Author As AFK.                            |
+| `a!avatar <user>` | Shows The Avatar Of a User.                         |
 
 ### Guild Utilities
 
@@ -44,7 +44,7 @@ All prefixes in the documentation are given as `a!`, which is the default prefix
 | `a!greet show`               | Shows the configuration of greet.                                                                                                                                   |
 | `a!embed`                    | Creates a new embed, which is fully customizable. You can also set the embed to be sent in a specific channel, or set it as the win message.                        |
 | `a!timestamp <time>`         | Gives you the Discord-formatted timestamp for the given time.                                                                                                       |
-| `a!timedif <ID_1> [ID_2]`    | Shows the time difference between two discord IDs. Check out [how-to-use-timedif.md](../guides/how-to-use-timedif.md "mention") to learn more.                      |
+| `a!timedif <ID_1> [ID_2]`    | Shows the time difference between two discord IDs. Check out [how-to-use-timedif.md](../useful-guides/how-to-use-timedif.md "mention") to learn more.               |
 
 ### Server Utilities
 
@@ -55,4 +55,15 @@ All prefixes in the documentation are given as `a!`, which is the default prefix
 | `a!nuke <channel>`                       | Clones The Channel So Pings Are Removed.                             |
 | `a!newrole`                              | Creates a New Role Of Your Choice.                                   |
 | `a!userinfo <user>`                      | Shows Information About a User.                                      |
+| `a!membercount`                          | Shows Number Of Users In This Guild.                                 |
+| `a!serverinfo`                           | Shows Information About The Server.                                  |
 
+### Uncategorized Commands
+
+| Command                                     | Information                               |
+| ------------------------------------------- | ----------------------------------------- |
+| `a!timer <name> <time_limit>`               | Starts a Timer.                           |
+| `a!snowflake <message_id_1> <message_id_2>` | Gives The Difference Within two Messages. |
+|                                             | \`                                        |
+
+{% embed url="https://discord.gg/UQeWQpBYzX" %}
