@@ -2,6 +2,8 @@
 description: >-
   Welcome to the documentation for Apollo. You can learn more about the bot
   here.
+cover: .gitbook/assets/banner.png
+coverY: 0
 ---
 
 # Home
