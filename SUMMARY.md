@@ -4,6 +4,7 @@
 
 ## 📘 Useful Guides
 
+* [Configurations](useful-guides/config.md)
 * [How to use timedif](useful-guides/how-to-use-timedif.md)
 
 ## 📗 Commands
