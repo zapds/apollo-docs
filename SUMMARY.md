@@ -15,10 +15,7 @@
 * [Meta / Misc](commands/meta-misc.md)
 * [Utilities](commands/utilities.md)
 
-## 🔗 Useful Links
-
-* [Support Server](https://discord.gg/UQeWQpBYzX)
-
 ***
 
+* [Support Server](https://discord.gg/CQsfW5pb2e)
 * [Vote For The Bot](https://top.gg/bot/824119071556763668)
