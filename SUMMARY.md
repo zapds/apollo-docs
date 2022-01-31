@@ -20,3 +20,8 @@
 
 * [Support Server](https://discord.gg/CQsfW5pb2e)
 * [Vote For The Bot](https://top.gg/bot/824119071556763668)
+
+## Important
+
+* [Terms of Service](important/terms-of-service.md)
+* [Privacy Policy](important/privacy-policy.md)
