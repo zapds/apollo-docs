@@ -43,8 +43,11 @@ To change the current greet message, use the command `a!greet message <message>`
 
 You can use these variables in the message
 
-| Placeholder | Actual value                    |
-| ----------- | ------------------------------- |
-| `{mention}` | The new member's mention (ping) |
-|             |                                 |
-|             |                                 |
+| Placeholder      | Actual value                            |
+| ---------------- | --------------------------------------- |
+| `{mention}`      | The new member's mention (ping)         |
+| `{mc}`           | The member count of the server          |
+| `{server(name)}` | The name of the server                  |
+| `{member(tag)}`  | The tag of the member (eg. Zapdos#0007) |
+| `{member(name)}` | The username of the member (eg. Zapdos) |
+
