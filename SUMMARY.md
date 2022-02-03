@@ -2,11 +2,11 @@
 
 * [🏠 Introduction](README.md)
 
-## 📘 Useful Guides
+## 📘 Useful Guides <a href="#guides" id="guides"></a>
 
-* [Greet](useful-guides/greet.md)
-* [Configurations](useful-guides/config.md)
-* [How to use timedif](useful-guides/how-to-use-timedif.md)
+* [Greet](guides/greet.md)
+* [Configurations](guides/config.md)
+* [How to use timedif](guides/how-to-use-timedif.md)
 
 ## 📗 Commands
 

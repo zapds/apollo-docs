@@ -44,7 +44,7 @@ All prefixes in the documentation are given as `a!`, which is the default prefix
 | `a!greet show`               | Shows the configuration of greet.                                                                                                                                   |
 | `a!embed`                    | Creates a new embed, which is fully customizable. You can also set the embed to be sent in a specific channel, or set it as the win message.                        |
 | `a!timestamp <time>`         | Gives you the Discord-formatted timestamp for the given time.                                                                                                       |
-| `a!timedif <ID_1> [ID_2]`    | Shows the time difference between two discord IDs. Check out [how-to-use-timedif.md](../useful-guides/how-to-use-timedif.md "mention") to learn more.               |
+| `a!timedif <ID_1> [ID_2]`    | Shows the time difference between two discord IDs. Check out [how-to-use-timedif.md](../guides/how-to-use-timedif.md "mention") to learn more.                      |
 
 ### Server Utilities
 
