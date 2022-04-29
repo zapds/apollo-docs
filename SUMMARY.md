@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🏠 Introduction](README.md)
+* [✨ Premium](premium.md)
 
 ## 📘 Useful Guides <a href="#guides" id="guides"></a>
 
