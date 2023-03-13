@@ -5,12 +5,11 @@ description: Commands for setting claim time to roles.
 # Claim time
 
 ## Adding/removing claimtime
-``\
 
 ## _**claimtime add**_
 
 `a!claimtime add <role> <claim time> [override]`\
-
+``\
 ``Adds claim time for a role.
 
 | Argument              | Description                       | Example              |
