@@ -4,6 +4,8 @@ description: Commands for creating and controlling giveaways.
 
 # Giveaways
 
+## Controlling giveaways
+
 ### _**gstart**_
 
 `a!gstart <time> <winners> <prize>`
@@ -36,6 +38,8 @@ Chooses a new winner for an ended giveaway.
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
 | message\_id (optional) | The ID of the message containing the ended giveaway. If not provided, the command will choose the last giveaway in the channel. | 1084769011771920405 |
 
+## Managing giveaways
+
 ### _**glist**_
 
 `a!glist`
@@ -62,6 +66,8 @@ Blacklist/unblacklist a user from participating/winning all giveaways in the ser
 | -------- | -------------------------------------------------- | ------------------- |
 | user     | The user to blacklist. Leave empty to see the list | @user \| user#1234  |
 
+## Other related commands
+
 ### _**wins**_
 
 `a!wins [user]`
@@ -72,3 +78,18 @@ Shows the number of times a member won giveaways.
 | -------- | -------------------------- | ------------------ |
 | user     | The user to show wins for. | @user \| user#1234 |
 
+### _**winrole**_
+
+`a!winrole`
+
+View current roles that are set to be added to giveaway winners.
+
+### _**winrole set**_
+
+`a!winrole set <role>`\
+\
+Adds a role to be added to the winner of a giveaway.
+
+| Argument        | Description                    | Example              |
+| --------------- | ------------------------------ | -------------------- |
+| role (required) | The role to add to the winner. | @role \| 'role name' |
