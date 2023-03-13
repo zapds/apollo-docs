@@ -9,6 +9,6 @@
 
 ## 📄 Command List <a href="#commands" id="commands"></a>
 
-* [Page 1](commands/page-1.md)
+* [Greeter](commands/greeter.md)
 * [Giveaways](commands/giveaways.md)
 * [Claim time](commands/claim-time.md)
