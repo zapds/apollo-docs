@@ -4,6 +4,10 @@ description: Commands to count messages.
 
 # Message Counter
 
+{% hint style="info" %}
+Check the [`a!messages settings`](message-counter.md#messages-settings) command to blacklist/whitelist channels where messages should be counted.
+{% endhint %}
+
 ### _**messages**_
 
 `a!messages [user]`
