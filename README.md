@@ -1,28 +1,63 @@
 ---
-description: >-
-  Welcome to the documentation for Apollo. You can learn more about the bot
-  here.
-cover: .gitbook/assets/background.jpg
-coverY: -107.18502202643191
+description: Here's how to setup Apollo for your server
 ---
 
-# 🏠 Introduction
+# ⚙ Setup
 
-Apollo is a powerful Discord bot that has a wide range of utility tools to manage your Discord server.
-
-## Getting Started
-
-Here's how to get started with Apollo.
-
-### Inviting the bot
-
-Click the link down below to add Apollo to your server to get started.
+### Add the bot to your server:
 
 {% embed url="https://dsc.gg/apollo-invite" %}
-**Click on the link above to invite Apollo**
+Invite Apollo
 {% endembed %}
 
-{% hint style="info" %}
-The default prefix for Apollo is `a!`. To change it, use the `a!prefix set` command.
-{% endhint %}
+### Setup the commands:
 
+<details>
+
+<summary>Greet (welcome message with ping)</summary>
+
+Use the `a!greet` command to instantly start welcoming users without any extra setup.
+
+Check out the \[greet] documentation to change the default settings.
+
+</details>
+
+<details>
+
+<summary>Hosting giveaways </summary>
+
+Use the `a!gstart` command to quickly start a giveaway.
+
+You can create & assign a role called `Giveaways` to managers to give them access to create giveaways.
+
+Check out the \[giveaway] command documentation for more info.
+
+</details>
+
+<details>
+
+<summary>Win message &#x26; claim time</summary>
+
+1. Setup claim time using \[claimtime] command: `a!claimtime add everyone 10s`&#x20;
+2. Using variables from `a!variables`, setup the win message using \[config] command: `a!config` -> Win message -> Set text win message
+3. Use the \[config] command to enable the win message: `a!config` -> Win message -> Enable
+4. If you're using other giveaway bots than Apollo, add triggers using the `a!config` command: `a!config` -> Triggers -> Add trigger
+5. Make sure the giveaway winner has atleast one role with claimtime (assign `everyone` a claimtime to make sure)
+
+You're all set!
+
+
+
+
+
+</details>
+
+<details>
+
+<summary>Message counter</summary>
+
+Use `a!messages enable` to instantly start counting messages.
+
+Check out \[message counter] for blacklisting/whitelisting channels or for adding/removing messages.
+
+</details>
