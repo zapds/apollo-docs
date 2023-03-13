@@ -93,3 +93,23 @@ Adds a role to be added to the winner of a giveaway.
 | Argument        | Description                    | Example              |
 | --------------- | ------------------------------ | -------------------- |
 | role (required) | The role to add to the winner. | @role \| 'role name' |
+
+### _**winrole remove**_
+
+`a!winrole remove <role>`
+
+Removes a role from the winner roles.
+
+| Argument | Description     | Example              |
+| -------- | --------------- | -------------------- |
+| role     | The target role | @role \| 'role name' |
+
+### _**managerole**_
+
+`a!managerole [role]`
+
+If no role is specified, shows the current manager role. Will set the manager role as the role, if given.
+
+| Argument | Description                                                                           | Example              |
+| -------- | ------------------------------------------------------------------------------------- | -------------------- |
+| role     | The role to set as the manager role. If not provided, shows the current manager role. | @role \| 'role name' |
