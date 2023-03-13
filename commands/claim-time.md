@@ -5,6 +5,7 @@ description: Commands for setting claim time to roles.
 # Claim time
 
 ## Adding/removing claimtime
+``\
 
 ## _**claimtime add**_
 
