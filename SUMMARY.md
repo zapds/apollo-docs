@@ -9,6 +9,7 @@
 
 ## 📄 Command List <a href="#commands" id="commands"></a>
 
+* [Meta](commands/meta.md)
 * [Message Counter](commands/message-counter.md)
 * [Greeter](commands/page-1.md)
 * [Giveaways](commands/giveaways.md)
