@@ -9,6 +9,7 @@
 * [Greeter](commands/page-1.md)
 * [Giveaways](commands/giveaways.md)
 * [Claim time](commands/claim-time.md)
+* [Utilities](commands/utilities.md)
 
 ## 📘 legal <a href="#important" id="important"></a>
 
