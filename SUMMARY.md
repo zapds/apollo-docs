@@ -1,6 +1,7 @@
 # Table of contents
 
-* [⚙ Setup](README.md)
+* [Premium](README.md)
+* [⚙ Setup](<README (1).md>)
 
 ## 📄 Command List <a href="#commands" id="commands"></a>
 

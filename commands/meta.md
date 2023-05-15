@@ -48,3 +48,21 @@ Resets and deletes all data collected from the server.
 
 Lists all the variables that can be used for win messages, giveaway embed, or greet messages.
 
+### _prefix_
+
+`a!prefix`
+
+Shows the current prefix for the server. You can always use the bot's mention instead of the prefix. The default prefix is `a!`.
+
+### prefix set
+
+`a!prefix set <prefix>`
+
+Sets a new prefix for the server.&#x20;
+
+| Argument | Description               | Example  |
+| -------- | ------------------------- | -------- |
+| prefix   | The new prefix to be used | `!`, `?` |
+
+
+
