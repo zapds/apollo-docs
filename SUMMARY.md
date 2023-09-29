@@ -2,11 +2,6 @@
 
 * [⚙ Setup](README.md)
 
-## guides
-
-* [Giveaways](guides/giveaways.md)
-* [Page 2](guides/page-2.md)
-
 ## 📄 Command List <a href="#commands" id="commands"></a>
 
 * [Meta](commands/meta.md)

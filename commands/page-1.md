@@ -50,3 +50,14 @@ Sets the time to delete the greet message after a member joins.
 | -------- | ------------------------------------------------------------------ | ------- |
 | seconds  | The time in seconds after which the greet message will be deleted. | 5       |
 
+### Greet Message Variables
+
+These are special keywords that will be replaced with their actual value.
+
+| Variable       | Value                     | Example   |
+| -------------- | ------------------------- | --------- |
+| {mention}      | The member's mention      | @Zapdos   |
+| {mc}           | The server's member count | 1         |
+| {server(name)} | The server's name         | Apollo HQ |
+| {member(tag)}  | The member's username     | zapd0s.   |
+| {member(name)} | The member's name         | zapd0s.   |

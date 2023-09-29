@@ -12,7 +12,7 @@ Use the following link to invite the bot to your server: [https://discord.com/ap
 Invite Apollo
 {% endembed %}
 
-### Setup the commands:
+### Setup / FAQ
 
 <details>
 
@@ -63,3 +63,14 @@ Use [`a!messages enable`](commands/message-counter.md#messages-enable) to instan
 Check out [message counter](commands/message-counter.md) for blacklisting/whitelisting channels or for adding/removing messages.
 
 </details>
+
+
+
+### More questions?
+
+Join our support server & create a ticket so we can assist you!
+
+{% embed url="https://discord.gg/apollo-hq-923425920096800788" %}
+invite link to support server
+{% endembed %}
+

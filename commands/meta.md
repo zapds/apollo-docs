@@ -32,9 +32,7 @@ Enables the usage of a command.
 
 Disables the usage of a command.
 
-| Argument | Description             | Example        |
-| -------- | ----------------------- | -------------- |
-| command  | The command to disable. | `ping`, `help` |
+<table><thead><tr><th width="232">Argument</th><th>Description</th><th>Example</th></tr></thead><tbody><tr><td>command</td><td>The command to disable.</td><td><code>ping</code>, <code>help</code></td></tr></tbody></table>
 
 ### _**reset**_
 
@@ -60,9 +58,7 @@ Shows the current prefix for the server. You can always use the bot's mention in
 
 Sets a new prefix for the server.&#x20;
 
-| Argument | Description               | Example  |
-| -------- | ------------------------- | -------- |
-| prefix   | The new prefix to be used | `!`, `?` |
+<table><thead><tr><th width="232">Argument</th><th>Description</th><th>Example</th></tr></thead><tbody><tr><td>prefix</td><td>The new prefix to be used</td><td><code>!</code>, <code>?</code></td></tr></tbody></table>
 
 
 
